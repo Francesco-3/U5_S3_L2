@@ -1,6 +1,6 @@
 package francescodicecca.SpringJWT.repositories;
 
-import francescodicecca.TravelManagement.entities.Employee;
+import francescodicecca.SpringJWT.entities.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

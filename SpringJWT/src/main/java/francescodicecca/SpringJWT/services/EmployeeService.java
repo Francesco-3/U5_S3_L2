@@ -1,10 +1,10 @@
 package francescodicecca.SpringJWT.services;
 
-import francescodicecca.TravelManagement.entities.Employee;
-import francescodicecca.TravelManagement.exceptions.BadRequestException;
-import francescodicecca.TravelManagement.exceptions.NotFoundException;
-import francescodicecca.TravelManagement.payloads.NewEmployeePayload;
-import francescodicecca.TravelManagement.repositories.EmployeeRepository;
+import francescodicecca.SpringJWT.entities.Employee;
+import francescodicecca.SpringJWT.exceptions.BadRequestException;
+import francescodicecca.SpringJWT.exceptions.NotFoundException;
+import francescodicecca.SpringJWT.payloads.NewEmployeePayload;
+import francescodicecca.SpringJWT.repositories.EmployeeRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

@@ -1,6 +1,6 @@
 package francescodicecca.SpringJWT.entities;
 
-import francescodicecca.TravelManagement.entities.enums.TripStatus;
+import francescodicecca.SpringJWT.entities.enums.TripStatus;
 import jakarta.persistence.*;
 import lombok.*;
 

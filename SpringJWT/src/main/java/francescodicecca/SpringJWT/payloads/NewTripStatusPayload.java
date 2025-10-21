@@ -1,6 +1,6 @@
 package francescodicecca.SpringJWT.payloads;
 
-import francescodicecca.TravelManagement.entities.enums.TripStatus;
+import francescodicecca.SpringJWT.entities.enums.TripStatus;
 import jakarta.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

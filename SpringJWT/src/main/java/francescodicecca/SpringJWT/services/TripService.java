@@ -1,10 +1,10 @@
 package francescodicecca.SpringJWT.services;
 
-import francescodicecca.TravelManagement.entities.Trip;
-import francescodicecca.TravelManagement.entities.enums.TripStatus;
-import francescodicecca.TravelManagement.exceptions.*;
-import francescodicecca.TravelManagement.payloads.NewTripPayload;
-import francescodicecca.TravelManagement.repositories.TripRepository;
+import francescodicecca.SpringJWT.entities.Trip;
+import francescodicecca.SpringJWT.entities.enums.TripStatus;
+import francescodicecca.SpringJWT.exceptions.*;
+import francescodicecca.SpringJWT.payloads.NewTripPayload;
+import francescodicecca.SpringJWT.repositories.TripRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

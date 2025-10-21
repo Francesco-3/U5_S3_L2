@@ -1,6 +1,6 @@
 package francescodicecca.SpringJWT.repositories;
 
-import francescodicecca.TravelManagement.entities.Booking;
+import francescodicecca.SpringJWT.entities.Booking;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.time.LocalDate;

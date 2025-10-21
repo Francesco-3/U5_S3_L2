@@ -1,9 +1,9 @@
 package francescodicecca.SpringJWT.services;
 
-import francescodicecca.TravelManagement.entities.*;
-import francescodicecca.TravelManagement.exceptions.*;
-import francescodicecca.TravelManagement.payloads.NewBookingPayload;
-import francescodicecca.TravelManagement.repositories.*;
+import francescodicecca.SpringJWT.entities.*;
+import francescodicecca.SpringJWT.exceptions.*;
+import francescodicecca.SpringJWT.payloads.NewBookingPayload;
+import francescodicecca.SpringJWT.repositories.*;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
